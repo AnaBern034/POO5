@@ -1,1 +1,9 @@
-Primeiro eu criei uma interface e 
+Primeiro eu criei uma interface lampada que contém o método ligar e desligar
+logo após criei uma classe "pai" que chama-se FabricaLampada e duas classes "filhas" denominada como Incandescente e Florescente
+dentro das classes filhas (Incandescente) e (Florescente) chamei os métodos da interface para retornarem uma frase
+especifica de cada método.
+depois adicionei um novo método body que consiste em  fazer com que o usuário ESCOLHA entre ligar ou desligar a lampada 
+Assim eu instancio as clases filhas na classe FabricaLampada
+dando continuidade adiciono um método CONSTRUIR para escolher qual lampada o usuario deseja ESCOLHER e incluir todos os metodos funcionais
+que foram criados nas outras classes.
+Na main basta só instanciar a classe FabricaLampada e logo após chamar o método CONSTRUIR.
